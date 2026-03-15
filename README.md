@@ -1,4 +1,23 @@
 # Decision Intelligence Portfolio
+A portfolio of applied analytics projects exploring how data can support structured decision-making across commercial and public-sector systems.
+
+## Decision Intelligence Architecture
+
+The projects in this portfolio follow a consistent analytical philosophy: transforming raw data into structured decision-support frameworks that organisations can use to guide operational and strategic actions.
+
+The simplified architecture behind this work can be described as:
+
+Raw Data  
+↓  
+Behaviour Signals  
+↓  
+Analytical Insight  
+↓  
+Decision Framework  
+↓  
+Responsible Automation
+
+Across commercial and public-sector contexts, the objective remains the same: ensuring that analytics produces clear, interpretable signals that support accountable decision-making rather than opaque automated outcomes.
 
 ## About This Work
 
@@ -37,8 +56,8 @@ Key Themes:
 - Explainable automation logic
 - Responsible marketing intelligence
 
-Repository:  
-👉 [Customer Growth Analytics Project](https://github.com/kamranafridi9220-prog/customer-growth-analytics-python)
+👉Repository:
+https://github.com/kamranafridi9220-prog/customer-growth-analytics-python
 
 ---
 
@@ -62,9 +81,9 @@ Key Themes:
 - Operational risk identification
 - Structured escalation modelling
 - Transparent analytical design
-
-Repository:  
-👉 [NHS RTT Decision Framework Project](https://github.com/kamranafridi9220-prog/nhs-rtt-operational-pressure-framework-2025)
+ 
+👉Repository:
+https://github.com/kamranafridi9220-prog/nhs-rtt-operational-pressure-framework-2025
 
 ## Project 3
 ### UK Telecom Customer Switching Intelligence
@@ -88,9 +107,8 @@ Key Themes:
 • Behavioural switching signals  
 • Retention strategy design  
 • Market-level decision support frameworks  
-
 Repository:
-👉 👉 https://github.com/kamranafridi9220-prog/uk-telecom-customer-switching-intelligence
+👉 https://github.com/kamranafridi9220-prog/uk-telecom-customer-switching-intelligence
 
 ## Analytical Philosophy
 
@@ -128,8 +146,6 @@ The emphasis will remain on responsible, operationally grounded analytics rather
 
 ## Research Themes
 
-Research Themes
-
 • Applied Decision Intelligence  
 • Customer Behaviour Analytics  
 • Operational Data Analysis  
@@ -137,7 +153,7 @@ Research Themes
 • Decision-support framework design  
 • Interpretable analytics for executive environments
 
-Public Writing
+## Public Writing
 
 Insights from these projects are also explored through long-form articles published on Medium.
 

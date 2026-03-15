@@ -101,3 +101,10 @@ This portfolio is iterative.
 Future work will continue to explore structured decision frameworks in both private and public sector environments.
 
 The emphasis will remain on responsible, operationally grounded analytics rather than experimentation detached from real-world systems.
+
+## Research Themes
+
+- Applied Decision Intelligence
+- Customer Behaviour Analytics
+- Operational Data Analysis
+- Responsible Intelligent Automation

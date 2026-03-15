@@ -66,7 +66,31 @@ Key Themes:
 Repository:  
 👉 [NHS RTT Decision Framework Project](https://github.com/kamranafridi9220-prog/nhs-rtt-operational-pressure-framework-2025)
 
----
+## Project 3
+### UK Telecom Customer Switching Intelligence
+
+This project analyses customer switching behaviour within the UK telecommunications market using publicly available Ofcom Switching Tracker data.
+
+The analysis focuses on understanding the behavioural drivers behind telecom provider switching and how telecom operators can identify early churn signals.
+
+The project explores:
+
+• Frequency of customer switching across telecom providers  
+• Behavioural triggers influencing switching decisions  
+• Competitive pressures within the UK telecom market  
+• Development of a telecom churn decision framework
+
+Rather than focusing purely on descriptive statistics, the project demonstrates how market-level behavioural data can support proactive customer retention strategies within competitive telecom environments.
+
+Key Themes:
+
+• Telecom churn decision intelligence  
+• Behavioural switching signals  
+• Retention strategy design  
+• Market-level decision support frameworks  
+
+Repository:
+👉 👉 https://github.com/kamranafridi9220-prog/uk-telecom-customer-switching-intelligence
 
 ## Analytical Philosophy
 
@@ -104,7 +128,23 @@ The emphasis will remain on responsible, operationally grounded analytics rather
 
 ## Research Themes
 
-- Applied Decision Intelligence
-- Customer Behaviour Analytics
-- Operational Data Analysis
-- Responsible Intelligent Automation
+Research Themes
+
+• Applied Decision Intelligence  
+• Customer Behaviour Analytics  
+• Operational Data Analysis  
+• Responsible Intelligent Automation  
+• Decision-support framework design  
+• Interpretable analytics for executive environments
+
+Public Writing
+
+Insights from these projects are also explored through long-form articles published on Medium.
+
+The articles expand on the analytical thinking behind each project, focusing on how data analysis can support real-world decision making in commercial and public-sector environments.
+
+# Public articles currently explore:
+
+• Customer retention strategy through behavioural analytics  
+• NHS operational pressure analysis using national datasets  
+• Telecom switching behaviour within competitive markets
